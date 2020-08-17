@@ -1,3 +1,6 @@
+Project is live here https://saurav-mern.github.io/covid-19/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
